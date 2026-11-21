@@ -43,7 +43,7 @@
 ---
 
 ### 🚀 Featured Project
-- **[VAPT Lab Reports: Lampiao & Vegeta](https://github.com/blckhat-cmd/vapt-lab-reports) — Full attack-chain VAPT of two vulnerable machines (credential exposure → root), with CVSS-rated findings** — Vulnerability Assessment & Penetration Testing
+- **[VAPT Lab Reports: Lampiao & Vegeta](https://github.com/blckhat-cmd/vapt-lab-reports)** — Full attack-chain VAPT of two vulnerable machines (credential exposure → root), with CVSS-rated findings
 
 ---
 
