@@ -45,6 +45,8 @@
 ### 🚀 Featured Project
 - **[VAPT Lab Reports: Lampiao & Vegeta](https://github.com/blckhat-cmd/vapt-lab-reports)** — Full attack-chain VAPT of two vulnerable machines (credential exposure → root), with CVSS-rated findings
 - **[AD Attack & Defense Lab](https://github.com/blckhat-cmd/ad-attack-defense-lab)** — Full red+blue AD compromise: recon → Kerberoasting → Domain Admin → detection → remediation
+- **[Windows Endpoint Security Audit Tool](https://github.com/blckhat-cmd/windows-endpoint-security-audit)** — PowerShell tool with 65 checks across 12 areas; auto-generates a PDF/HTML findings report
+
 ---
 
 ### 📊 GitHub Stats
